@@ -12,6 +12,6 @@ Contient le script pour importer uniquement la structure de la bas de données (
 ## Fichier tifosi_peuplement 
 Contient le script pour importer uniquement les données de peuplement (désactiver la fonction "vérifier les clés étrangères" lors de l'importatation).
 
-## id utilisateur : 
-nom : tifosi
-mot de pase : PmiH9iZSdWPAckl2
+## ID utilisateur : 
+Nom : tifosi ; 
+Mot de pase : PmiH9iZSdWPAckl2
